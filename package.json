@@ -1,7 +1,7 @@
 {
-  "name": "ts-npm-package-boilerplate",
-  "version": "0.1.4",
-  "description": "TypeScript NPM Module Boilerplate",
+  "name": "lucid-common",
+  "version": "0.1.1",
+  "description": "Lucid Common for GlobalPOS systems",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
@@ -18,18 +18,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hebertcisco/ts-npm-package-boilerplate.git"
+    "url": ""
   },
   "keywords": [
     "boilerplate",
     "typescript"
   ],
-  "author": "Hebert Cisco",
+  "author": "Hrishikesh D Kakkad",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hebertcisco/ts-npm-package-boilerplate/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/hebertcisco/ts-npm-package-boilerplate#readme",
+  "homepage": "",
   "devDependencies": {
     "@types/jest": "28.1.1",
     "@typescript-eslint/eslint-plugin": "5.27.0",
